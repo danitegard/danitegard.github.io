@@ -1,10 +1,10 @@
 {
-"companyName": "DefaultCompany",
-"productName": "DaniteGardGame",
+"companyName": "DaniteGard",
+"productName": "DaniteAtTheMuseum",
 "dataUrl": "DaniteGardGame_WebGL.data.unityweb",
 "wasmCodeUrl": "DaniteGardGame_WebGL.wasm.code.unityweb",
 "wasmFrameworkUrl": "DaniteGardGame_WebGL.wasm.framework.unityweb",
-"TOTAL_MEMORY": 268435456,
+"TOTAL_MEMORY": 536870912,
 "graphicsAPI": ["WebGL 2.0", "WebGL 1.0"],
 "webglContextAttributes": {"preserveDrawingBuffer": false},
 "splashScreenStyle": "Dark",
